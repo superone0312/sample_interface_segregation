@@ -1,0 +1,16 @@
+D:\Desktop FIles\source code\solid_principle\bin\Debug\netcoreapp3.1\solid_principle.exe
+D:\Desktop FIles\source code\solid_principle\bin\Debug\netcoreapp3.1\solid_principle.deps.json
+D:\Desktop FIles\source code\solid_principle\bin\Debug\netcoreapp3.1\solid_principle.runtimeconfig.json
+D:\Desktop FIles\source code\solid_principle\bin\Debug\netcoreapp3.1\solid_principle.runtimeconfig.dev.json
+D:\Desktop FIles\source code\solid_principle\bin\Debug\netcoreapp3.1\solid_principle.dll
+D:\Desktop FIles\source code\solid_principle\bin\Debug\netcoreapp3.1\solid_principle.pdb
+D:\Desktop FIles\source code\solid_principle\bin\Debug\netcoreapp3.1\solid_principleLib.dll
+D:\Desktop FIles\source code\solid_principle\bin\Debug\netcoreapp3.1\solid_principleLib.pdb
+D:\Desktop FIles\source code\solid_principle\obj\Debug\netcoreapp3.1\solid_principle.csprojAssemblyReference.cache
+D:\Desktop FIles\source code\solid_principle\obj\Debug\netcoreapp3.1\solid_principle.AssemblyInfoInputs.cache
+D:\Desktop FIles\source code\solid_principle\obj\Debug\netcoreapp3.1\solid_principle.AssemblyInfo.cs
+D:\Desktop FIles\source code\solid_principle\obj\Debug\netcoreapp3.1\solid_principle.csproj.CoreCompileInputs.cache
+D:\Desktop FIles\source code\solid_principle\obj\Debug\netcoreapp3.1\solid_principle.csproj.CopyComplete
+D:\Desktop FIles\source code\solid_principle\obj\Debug\netcoreapp3.1\solid_principle.dll
+D:\Desktop FIles\source code\solid_principle\obj\Debug\netcoreapp3.1\solid_principle.pdb
+D:\Desktop FIles\source code\solid_principle\obj\Debug\netcoreapp3.1\solid_principle.genruntimeconfig.cache

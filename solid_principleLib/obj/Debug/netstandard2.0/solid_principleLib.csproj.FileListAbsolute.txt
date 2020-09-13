@@ -1,0 +1,9 @@
+D:\Desktop FIles\source code\solid_principleLib\bin\Debug\netstandard2.0\solid_principleLib.deps.json
+D:\Desktop FIles\source code\solid_principleLib\bin\Debug\netstandard2.0\solid_principleLib.dll
+D:\Desktop FIles\source code\solid_principleLib\bin\Debug\netstandard2.0\solid_principleLib.pdb
+D:\Desktop FIles\source code\solid_principleLib\obj\Debug\netstandard2.0\solid_principleLib.csprojAssemblyReference.cache
+D:\Desktop FIles\source code\solid_principleLib\obj\Debug\netstandard2.0\solid_principleLib.AssemblyInfoInputs.cache
+D:\Desktop FIles\source code\solid_principleLib\obj\Debug\netstandard2.0\solid_principleLib.AssemblyInfo.cs
+D:\Desktop FIles\source code\solid_principleLib\obj\Debug\netstandard2.0\solid_principleLib.csproj.CoreCompileInputs.cache
+D:\Desktop FIles\source code\solid_principleLib\obj\Debug\netstandard2.0\solid_principleLib.dll
+D:\Desktop FIles\source code\solid_principleLib\obj\Debug\netstandard2.0\solid_principleLib.pdb

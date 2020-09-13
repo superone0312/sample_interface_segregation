@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "solid_principle/1.0.0": {
+        "dependencies": {
+          "solid_principleLib": "1.0.0"
+        },
+        "runtime": {
+          "solid_principle.dll": {}
+        }
+      },
+      "solid_principleLib/1.0.0": {
+        "runtime": {
+          "solid_principleLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "solid_principle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "solid_principleLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
