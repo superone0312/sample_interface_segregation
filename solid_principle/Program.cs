@@ -7,16 +7,16 @@ namespace solid_principle
     public static void Main (string[] args) {
       /// why use var?
       var client = new CannonMG2470();
-      client.PhotoCopyContent("test text");
-      client.PrintContent("test text");
-      client.ScanContent("test text");
+      client.PhotoCopyContent("text placeholder");
+      client.PrintContent("text placeholder");
+      client.ScanContent("text placeholder");
 
       var client2 = new HPLaserJet();
-      client2.FaxContent("test text");
-      client2.PhotoCopyContent("test text");
-      client2.PrintContent("test text");
-      client2.PrintDuplexContent("test text");
-      client2.ScanContent("test text");
+      client2.FaxContent("text placeholder");
+      client2.PhotoCopyContent("text placeholder");
+      client2.PrintContent("text placeholder");
+      client2.PrintDuplexContent("text placeholder");
+      client2.ScanContent("text placeholder");
     }
   }
 
